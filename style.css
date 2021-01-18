@@ -1,0 +1,61 @@
+.main{
+    border:1px solid black;
+    margin:0px;
+    height:auto;
+    width:185px;
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translateX(-50%) translateY(-50%);
+
+}
+.textview{
+    height:60px;
+    width:177px;
+    margin:0px;
+    text-align: right;
+    font-size:30px;
+}
+.but{
+    height:42px;
+    width:42px;
+    cursor:pointer;
+    color:grey;
+    text-align:center;
+    font-size:20px;
+    float:left;
+    margin:0px;
+    padding:10px;
+    border:10px;
+    
+
+}
+
+.butt{
+    height:42px;
+    width:42px;
+    margin:0px;
+    color:white;
+    text-align:center;
+    font-size:20px;
+    background-color: rgba(0, 0, 0, 0.685);
+    float:left;
+    cursor:pointer;
+    padding:10px;
+    border:10px
+}
+
+.buttt{
+    height:42px;
+    width:42px;
+    margin:0px;
+    color:white;
+    text-align:center;
+    font-size:20px;
+    background-color: rgba(255, 255, 0, 0.76);
+    float:left;
+    cursor:pointer;
+    padding:10px;
+    border:10px;
+}
+
